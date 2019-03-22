@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the DSI Github Challenge 2019 Page. You will find more information
   regarding the challenge here. Bookmark and follow this page for further information.
 baseurl: "/github-challenge-2019" # the subpath of your site, e.g. /blog
-url: "https://datascienceid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://datascienceid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
